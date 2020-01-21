@@ -1,0 +1,2 @@
+http://makeseleniumeasy.com/2017/07/14/how-to-handle-a-web-table-in-selenium-webdriver/
+
